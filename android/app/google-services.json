@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546989345403",
+    "project_id": "crudfirebase-9d482",
+    "storage_bucket": "crudfirebase-9d482.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546989345403:android:c19e53646f5c4fe587b0de",
+        "android_client_info": {
+          "package_name": "com.example.flutter_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546989345403-5qt44n6heblvbf5r05h3sql722vvjqro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMgiWTz26k_BPpUSfl93iPkEbzZMyWgUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546989345403-5qt44n6heblvbf5r05h3sql722vvjqro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
